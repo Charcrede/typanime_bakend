@@ -20,6 +20,7 @@ AUTH_USER_MODEL = 'citSyn.CustomUser'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://typanime.vercel.app",
 ]
 # Application definition
 
