@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-zgv6vw5m75xk%peju=i%$)=j#-$i9p_($%4l3j(+y$)n$#v8wc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["typanime-bakend-1.onrender.com"]
+ALLOWED_HOSTS = ["typanime-bakend.onrender.com"]
 
 AUTH_USER_MODEL = 'citSyn.CustomUser'
 
